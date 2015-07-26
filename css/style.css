@@ -1,0 +1,30 @@
+body {
+    background-color: #fff;
+}
+
+#nav {
+    color: white;
+    background-color: #303032;
+    float: left;
+    height: 100%;
+    width: 300px;
+    margin: 0;
+}
+
+#nav li{
+    display: block;
+}
+
+.fuckclasses{
+    margin: auto;
+}
+
+.fuckclasses h1 {
+    text-align: center;
+    color: #fb1;
+}
+
+.fuckclasses p {
+    text-align: center;
+    color: #111;
+}
