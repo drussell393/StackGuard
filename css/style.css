@@ -2,7 +2,7 @@ body {
     background-color: #fff;
 }
 
-#nav {
+#sg-nav {
     color: white;
     background-color: #303032;
     float: left;
@@ -11,20 +11,20 @@ body {
     margin: 0;
 }
 
-#nav li{
+#sg-nav li{
     display: block;
 }
 
-.fuckclasses{
+.main-sg-panel{
     margin: auto;
 }
 
-.fuckclasses h1 {
+.main-sg-panel h1 {
     text-align: center;
     color: #fb1;
 }
 
-.fuckclasses p {
+.main-sg-panel p {
     text-align: center;
     color: #111;
 }

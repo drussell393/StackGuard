@@ -11,17 +11,17 @@ include 'modules/get_minions.php';
 
 <link rel="stylesheet" href="css/style.css" type="text/css">
 
-<title>Trip Through LOLLAND</title>
-<div id="nav">
+<title>StackGuard</title>
+<div id="sg-nav">
 
     <ul>
         <?php get_minions(); ?>
     </ul>
 
 </div>
-<div class="fuckclasses">
-    <h1>LOL OMG WOT</h1>
-    <p>This shit be cray!</p>
+<div class="main-sg-panel">
+    <h1>Placeholder</h1>
+    <p>More interesting stuff will go here.</p>
 </div>
 </body>
 </html>
